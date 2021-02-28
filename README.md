@@ -1,6 +1,6 @@
 # mindb
 
-[Local network/localhost does not work · Issue #375 · webview/webview](https://github.com/webview/webview/issues/375#issuecomment-630132921)
+[Local network/localhost does not work 
 
 From the sharpWebview readme:
 
@@ -17,3 +17,9 @@ Check, if this works for you.
 
 
 * [Mage :: Mage](https://magefile.org/)
+
+Linux:
+
+```
+sudo apt-get install -y webkit2gtk-4.0
+```
