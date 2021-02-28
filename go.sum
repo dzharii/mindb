@@ -1,0 +1,4 @@
+github.com/magefile/mage v1.11.0 h1:C/55Ywp9BpgVVclD3lRnSYCwXTYxmSppIgLeDYlNuls=
+github.com/magefile/mage v1.11.0/go.mod h1:z5UZb/iS3GoOSn0JgWuiw7dxlurVYTu+/jHXqQg881A=
+github.com/webview/webview v0.0.0-20210216142346-e0bfdf0e5d90 h1:G/O1RFjhc9hgVYjaPQ0Oceqxf3GwRQl/5XEAWYetjmg=
+github.com/webview/webview v0.0.0-20210216142346-e0bfdf0e5d90/go.mod h1:rpXAuuHgyEJb6kXcXldlkOjU6y4x+YcASKKXJNUhh0Y=
